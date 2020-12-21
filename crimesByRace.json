@@ -1,0 +1,177 @@
+{
+    "allCrimes": [
+        {
+            "race": "White",
+            "crimes": [
+                {
+                    "name": "Aggravated Assault",
+                    "value": 237960
+                },
+                {
+                    "name": "Robbery",
+                    "value":117080
+                },
+                {
+                    "name": "Larceny",
+                    "value":539390
+                },
+                {
+                    "name": "Motor Vehicle Theft",
+                    "value": 54500
+                },
+                {
+                    "name": "Arson",
+                    "value": 6420
+                },
+                {
+                    "name": "Property Crime",
+                    "value": 717390
+                },
+                {
+                    "name": "Drug Abuse",
+                    "value": 1109600
+                },
+                {
+                    "name": "Violent Crime",
+                    "value": 276310
+                },{
+                    "name": "Offenses",
+                    "value": 7014550
+                },{
+                    "name": "Population",
+                    "value":234370202
+                }
+            ]
+        },
+        {
+            "race": "Black",
+            "crimes": [
+                {
+                    "name": "Aggravated Assault",
+                    "value": 128020
+                },
+                {
+                    "name": "Robbery",
+                    "value":49380
+                },
+                {
+                    "name": "Larceny",
+                    "value":245540
+                },
+                {
+                    "name": "Motor Vehicle Theft",
+                    "value": 23110
+                },
+                {
+                    "name": "Arson",
+                    "value": 2240
+                },
+                {
+                    "name": "Property Crime",
+                    "value": 320270
+                },
+                {
+                    "name": "Drug Abuse",
+                    "value": 406940
+                },
+                {
+                    "name": "Violent Crime",
+                    "value": 172980
+                },{
+                    "name": "Offenses",
+                    "value": 2667010
+                },{
+                    "name": "Population",
+                    "value":42000000
+                }
+            ]
+        },
+        {
+            "race": "American Indian",
+            "crimes": [
+                {
+                    "name": "Aggravated Assault",
+                    "value": 10100
+                },
+                {
+                    "name": "Robbery",
+                    "value":2500
+                },
+                {
+                    "name": "Larceny",
+                    "value":16070
+                },
+                {
+                    "name": "Motor Vehicle Theft",
+                    "value": 1710
+                },
+                {
+                    "name": "Arson",
+                    "value": 170
+                },
+                {
+                    "name": "Property Crime",
+                    "value": 20450
+                },
+                {
+                    "name": "Drug Abuse",
+                    "value": 20890
+                },
+                {
+                    "name": "Violent Crime",
+                    "value": 11110
+                },{
+                    "name": "Offenses",
+                    "value": 2442000
+                },{
+                    "name": "Population",
+                    "value":4000000
+                }
+            ]
+        },
+        {
+            "race": "Asian",
+            "crimes": [
+                {
+                    "name": "Aggravated Assault",
+                    "value": 9200
+                },
+                {
+                    "name": "Robbery",
+                    "value":2630
+                },
+                {
+                    "name": "Larceny",
+                    "value": 12070
+                },
+                {
+                    "name": "Motor Vehicle Theft",
+                    "value": 1320
+                },
+                {
+                    "name": "Arson",
+                    "value": 240
+                },
+                {
+                    "name": "Property Crime",
+                    "value": 16260
+                },
+                {
+                    "name": "Drug Abuse",
+                    "value": 21420
+                },
+                {
+                    "name": "Violent Crime",
+                    "value": 10480
+                },{
+                    "name": "Offenses",
+                    "value": 159450
+                },{
+                    "name": "Population",
+                    "value": 18600000
+                }
+            ]
+        }
+
+    ]
+}
