@@ -1,0 +1,125 @@
+*
+{
+    margin: 0; 
+    padding: 0;
+    
+ }
+
+
+  
+     body{
+          background: black;  
+         font-family: sans-serif;
+         background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://images.pexels.com/photos/162397/lost-places-factory-old-lapsed-162397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+         height: 100vh;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+         
+     }
+     #top{
+
+         color: lightblue;
+         padding: 35px;
+         text-align: center;
+         font-family:'Source Sans Pro', helvetica, sans-serif;
+         
+         } 
+       
+       #myHeader{
+       background-color:lightblue; 
+       color: peachpuff;
+       padding: 4px;
+       text-align: center;
+       font-family:'Source Sans Pro', helvetica, sans-serif;
+       
+       } 
+       
+       .top-design {
+          display: block ; 
+          text-align: center ; 
+         
+          
+          height: 70px ; 
+        }
+        
+        .top-design ul {
+            list-style-type: none;
+          
+           
+          }
+          
+          .top-design ul li {
+            display: inline-block ; 
+             
+          }
+          
+          .top-design li a {
+           
+            color: #474747;
+            background-color: black;
+            text-align: center;
+            padding: 14px 40px;
+            padding-left: 40px ; 
+            line-height: 80px ; 
+            letter-spacing: 1px ; 
+            font-size: 20px ; 
+            text-decoration: none;
+            font-family: 'Gayathri', sans-serif;
+            /* font-weight: bold ;  */
+            font-size: 20px ; 
+          }
+     
+     .form-wrap
+     { 
+         width: 320px; 
+         /* background-image: url(https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/07/03/147950-uyghur-reuters.jpg?itok=xnik66d8) ; */
+         
+           background: #3e3d3d;   
+         padding: 40px 20px; 
+         box-sizing: border-box; 
+         position: fixed; 
+         left: 50%; top: 70%; 
+         transform: translate(-50%, -50%);
+     }
+     h1
+     {
+         text-align: center; 
+         color: white; 
+         font-weight: normal; 
+         margin-bottom: 20px;
+     }
+     
+     input
+     {
+     width: 100%; 
+     background: none;
+      border: 1px solid #fff;
+     border-radius: 3px;
+     padding: 6px 15px;
+      box-sizing: border-box;
+     margin-bottom: 20px;
+     font-size: 16px; 
+     color: white;}
+     
+     input[type="button"]
+     { 
+         background:lightblue;
+          border: 0;
+           cursor: pointer; 
+           color: #3e3d3d;
+         }
+     input[type="button"]:hover
+     { 
+         background: lightgreen;
+          transition: .6s;
+         }
+     
+     ::placeholder{color: white;}
+ 
+
+     
+      
+       
+ 
