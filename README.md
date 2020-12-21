@@ -2,9 +2,6 @@
 
 
 
-HOPE Hackathon
-
-
 Our project identifies crimes that happens in certain locations by different races   
 
 
@@ -18,8 +15,7 @@ also to fully use our application you will need to contact us for the key to the
 
 you need to clone our git repo create a .env file and add our api key which is API_KEY=RTbfCS61WOM1F6IUmgZaNSV6ALHKcYUTagJxi5m4
 
-
-stack/technologies  used:
+# stack/technologies used
 -Html
 -css
 -java script
@@ -27,7 +23,7 @@ stack/technologies  used:
 
 
 
-Licences:
+# License
 MIT License
 Copyright (c) [2020] [Mooi]
 Permission is hereby granted, free of charge, to any person obtaining a copy
